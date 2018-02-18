@@ -1,0 +1,66 @@
+Wumpus-Lite v0.18a
+
+Dimensions: 4x4
+Maximum number of steps: 50
+Number of trials: 1
+Random Agent Location: true
+Random number seed: -1734482732
+Output filename: wumpus_out.txt
+Non-Deterministic Behavior: true
+
+Percept: <none,none,none,none,none>
+Current score: 0
+Last action: START_TRIAL
+Time step: 0
+Percept: <none,none,none,none,none>
+Current score: -1
+Last action: GO_FORWARD
+Time step: 1
+Percept: <none,none,breeze,none,none>
+Current score: -2
+Last action: GO_FORWARD
+Time step: 2
+Percept: <none,none,none,none,none>
+Current score: -3
+Last action: GO_FORWARD
+Time step: 3
+Percept: <bump,none,none,none,none>
+Current score: -4
+Last action: GO_FORWARD
+Time step: 4
+Percept: <none,none,none,none,none>
+Current score: -5
+Last action: TURN_RIGHT
+Time step: 5
+Percept: <none,none,none,none,none>
+Current score: -6
+Last action: TURN_LEFT
+Time step: 6
+Percept: <none,none,none,none,none>
+Current score: -7
+Last action: TURN_RIGHT
+Time step: 7
+Percept: <none,none,none,none,none>
+Current score: -8
+Last action: TURN_LEFT
+Time step: 8
+Percept: <none,glitter,breeze,none,none>
+Current score: -9
+Last action: GO_FORWARD
+Time step: 9
+Percept: <none,none,breeze,none,none>
+Current score: 991
+Last action: GRAB
+Time step: 10
+
+Agent Smith found the GOLD!!
+Final score: 991
+Last action: END_TRIAL
+
+
+___________________________________________
+
+Trial 1 score: 991
+
+Total Score: 991
+Average Score: 991.0
